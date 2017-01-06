@@ -1,9 +1,13 @@
-## Celery - 分布式任务队列
+Celery 4.0.2
+
+## Celery - 分布式任务队列 
+
+Celery 是一个简单、灵活、可靠的处理大量信息的分布式系统，同时提供操作和维护这样一个系统所需的工具.
+
+这是一个关注实时处理的任务队列，同时也支持任务调度。
+
+Celery 有着广泛、多样的用户与贡献者社区，你可以通过IRC 或者邮件列表 加入我恩。
+
+Celery 是开源的，使用 BSD 许可证 授权。
 
 
-
-Celery is a simple, flexible, and reliable distributed system to process vast amounts of messages, while providing operations with the tools required to maintain such a system.
-
-It’s a task queue with focus on real-time processing, while also supporting task scheduling.
-
-Celery has a large and diverse community of users and contributors, you should come join us on IRC or our mailing-list.
