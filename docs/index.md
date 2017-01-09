@@ -10,4 +10,7 @@ Celery 有着广泛、多样的用户与贡献者社区，你可以通过IRC 或
 
 Celery 是开源的，使用 BSD 许可证 授权。
 
+# 入门
 
+* 如果你刚开始使用 Celery，你可以从遵照 [Celery 初步](get_start/first_step.md) 教程开始入门。
+* 你也可以查阅 FAQ 。
